@@ -1,0 +1,12 @@
+{
+    "require": {
+        "kato/payme-api": "dev-master",
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../payme-api"
+        }
+    ]
+}
